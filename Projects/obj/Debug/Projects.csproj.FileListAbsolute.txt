@@ -1,0 +1,7 @@
+E:\CSharp\Projects\Projects\bin\Debug\Projects.exe.config
+E:\CSharp\Projects\Projects\bin\Debug\Projects.exe
+E:\CSharp\Projects\Projects\bin\Debug\Projects.pdb
+E:\CSharp\Projects\Projects\obj\Debug\Projects.csproj.AssemblyReference.cache
+E:\CSharp\Projects\Projects\obj\Debug\Projects.csproj.CoreCompileInputs.cache
+E:\CSharp\Projects\Projects\obj\Debug\Projects.exe
+E:\CSharp\Projects\Projects\obj\Debug\Projects.pdb
