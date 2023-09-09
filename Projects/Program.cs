@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Globalization;
+using Projects_Time;
+
 
 namespace Projects
 {
@@ -7,10 +9,8 @@ namespace Projects
     {
         static void Main(string[] args)
         {
-            ExchangeMonitor result = new ExchangeMonitor();
-            result.PriceRandom = Print;
-            result.Start();
+            DateTime dateTime = DateTime.Now;
+            dateTime.Print();
         }
-        public static void Print(int price) => Console.WriteLine($"Price now is {price}");
     }
 }
