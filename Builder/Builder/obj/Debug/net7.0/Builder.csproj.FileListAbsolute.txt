@@ -1,0 +1,14 @@
+E:\CSharp\Projects\Builder\Builder\obj\Debug\net7.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp\Projects\Builder\Builder\obj\Debug\net7.0\Builder.AssemblyInfoInputs.cache
+E:\CSharp\Projects\Builder\Builder\obj\Debug\net7.0\Builder.AssemblyInfo.cs
+E:\CSharp\Projects\Builder\Builder\obj\Debug\net7.0\Builder.csproj.CoreCompileInputs.cache
+E:\CSharp\Projects\Builder\Builder\bin\Debug\net7.0\Builder.exe
+E:\CSharp\Projects\Builder\Builder\bin\Debug\net7.0\Builder.deps.json
+E:\CSharp\Projects\Builder\Builder\bin\Debug\net7.0\Builder.runtimeconfig.json
+E:\CSharp\Projects\Builder\Builder\bin\Debug\net7.0\Builder.dll
+E:\CSharp\Projects\Builder\Builder\bin\Debug\net7.0\Builder.pdb
+E:\CSharp\Projects\Builder\Builder\obj\Debug\net7.0\Builder.dll
+E:\CSharp\Projects\Builder\Builder\obj\Debug\net7.0\refint\Builder.dll
+E:\CSharp\Projects\Builder\Builder\obj\Debug\net7.0\Builder.pdb
+E:\CSharp\Projects\Builder\Builder\obj\Debug\net7.0\Builder.genruntimeconfig.cache
+E:\CSharp\Projects\Builder\Builder\obj\Debug\net7.0\ref\Builder.dll
